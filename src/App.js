@@ -30,7 +30,7 @@ class Content extends Component {
 	render() {
 		return(
 			<div>
-				<button onClick={this.props.updateProp}>fullscreen Hello WOrld</button>
+				<button onClick={this.props.updateProp}>Hoho</button>
 				<p><b>{this.props.dataProp}</b></p>
 			</div>
 		);
